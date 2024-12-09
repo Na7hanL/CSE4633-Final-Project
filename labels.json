@@ -1,0 +1,802 @@
+{
+    "001.Black_footed_Albatross": {
+        "label": 0,
+        "count": 60
+    },
+    "002.Laysan_Albatross": {
+        "label": 1,
+        "count": 60
+    },
+    "003.Sooty_Albatross": {
+        "label": 2,
+        "count": 58
+    },
+    "004.Groove_billed_Ani": {
+        "label": 3,
+        "count": 60
+    },
+    "005.Crested_Auklet": {
+        "label": 4,
+        "count": 44
+    },
+    "006.Least_Auklet": {
+        "label": 5,
+        "count": 41
+    },
+    "007.Parakeet_Auklet": {
+        "label": 6,
+        "count": 53
+    },
+    "008.Rhinoceros_Auklet": {
+        "label": 7,
+        "count": 48
+    },
+    "009.Brewer_Blackbird": {
+        "label": 8,
+        "count": 59
+    },
+    "010.Red_winged_Blackbird": {
+        "label": 9,
+        "count": 60
+    },
+    "011.Rusty_Blackbird": {
+        "label": 10,
+        "count": 60
+    },
+    "012.Yellow_headed_Blackbird": {
+        "label": 11,
+        "count": 56
+    },
+    "013.Bobolink": {
+        "label": 12,
+        "count": 60
+    },
+    "014.Indigo_Bunting": {
+        "label": 13,
+        "count": 60
+    },
+    "015.Lazuli_Bunting": {
+        "label": 14,
+        "count": 58
+    },
+    "016.Painted_Bunting": {
+        "label": 15,
+        "count": 58
+    },
+    "017.Cardinal": {
+        "label": 16,
+        "count": 57
+    },
+    "018.Spotted_Catbird": {
+        "label": 17,
+        "count": 45
+    },
+    "019.Gray_Catbird": {
+        "label": 18,
+        "count": 59
+    },
+    "020.Yellow_breasted_Chat": {
+        "label": 19,
+        "count": 59
+    },
+    "021.Eastern_Towhee": {
+        "label": 20,
+        "count": 60
+    },
+    "022.Chuck_will_Widow": {
+        "label": 21,
+        "count": 56
+    },
+    "023.Brandt_Cormorant": {
+        "label": 22,
+        "count": 59
+    },
+    "024.Red_faced_Cormorant": {
+        "label": 23,
+        "count": 52
+    },
+    "025.Pelagic_Cormorant": {
+        "label": 24,
+        "count": 60
+    },
+    "026.Bronzed_Cowbird": {
+        "label": 25,
+        "count": 60
+    },
+    "027.Shiny_Cowbird": {
+        "label": 26,
+        "count": 60
+    },
+    "028.Brown_Creeper": {
+        "label": 27,
+        "count": 59
+    },
+    "029.American_Crow": {
+        "label": 28,
+        "count": 60
+    },
+    "030.Fish_Crow": {
+        "label": 29,
+        "count": 60
+    },
+    "031.Black_billed_Cuckoo": {
+        "label": 30,
+        "count": 60
+    },
+    "032.Mangrove_Cuckoo": {
+        "label": 31,
+        "count": 53
+    },
+    "033.Yellow_billed_Cuckoo": {
+        "label": 32,
+        "count": 59
+    },
+    "034.Gray_crowned_Rosy_Finch": {
+        "label": 33,
+        "count": 59
+    },
+    "035.Purple_Finch": {
+        "label": 34,
+        "count": 60
+    },
+    "036.Northern_Flicker": {
+        "label": 35,
+        "count": 60
+    },
+    "037.Acadian_Flycatcher": {
+        "label": 36,
+        "count": 59
+    },
+    "038.Great_Crested_Flycatcher": {
+        "label": 37,
+        "count": 60
+    },
+    "039.Least_Flycatcher": {
+        "label": 38,
+        "count": 59
+    },
+    "040.Olive_sided_Flycatcher": {
+        "label": 39,
+        "count": 60
+    },
+    "041.Scissor_tailed_Flycatcher": {
+        "label": 40,
+        "count": 60
+    },
+    "042.Vermilion_Flycatcher": {
+        "label": 41,
+        "count": 60
+    },
+    "043.Yellow_bellied_Flycatcher": {
+        "label": 42,
+        "count": 59
+    },
+    "044.Frigatebird": {
+        "label": 43,
+        "count": 60
+    },
+    "045.Northern_Fulmar": {
+        "label": 44,
+        "count": 60
+    },
+    "046.Gadwall": {
+        "label": 45,
+        "count": 60
+    },
+    "047.American_Goldfinch": {
+        "label": 46,
+        "count": 60
+    },
+    "048.European_Goldfinch": {
+        "label": 47,
+        "count": 60
+    },
+    "049.Boat_tailed_Grackle": {
+        "label": 48,
+        "count": 60
+    },
+    "050.Eared_Grebe": {
+        "label": 49,
+        "count": 60
+    },
+    "051.Horned_Grebe": {
+        "label": 50,
+        "count": 60
+    },
+    "052.Pied_billed_Grebe": {
+        "label": 51,
+        "count": 60
+    },
+    "053.Western_Grebe": {
+        "label": 52,
+        "count": 60
+    },
+    "054.Blue_Grosbeak": {
+        "label": 53,
+        "count": 60
+    },
+    "055.Evening_Grosbeak": {
+        "label": 54,
+        "count": 60
+    },
+    "056.Pine_Grosbeak": {
+        "label": 55,
+        "count": 60
+    },
+    "057.Rose_breasted_Grosbeak": {
+        "label": 56,
+        "count": 60
+    },
+    "058.Pigeon_Guillemot": {
+        "label": 57,
+        "count": 58
+    },
+    "059.California_Gull": {
+        "label": 58,
+        "count": 60
+    },
+    "060.Glaucous_winged_Gull": {
+        "label": 59,
+        "count": 59
+    },
+    "061.Heermann_Gull": {
+        "label": 60,
+        "count": 60
+    },
+    "062.Herring_Gull": {
+        "label": 61,
+        "count": 60
+    },
+    "063.Ivory_Gull": {
+        "label": 62,
+        "count": 60
+    },
+    "064.Ring_billed_Gull": {
+        "label": 63,
+        "count": 60
+    },
+    "065.Slaty_backed_Gull": {
+        "label": 64,
+        "count": 50
+    },
+    "066.Western_Gull": {
+        "label": 65,
+        "count": 60
+    },
+    "067.Anna_Hummingbird": {
+        "label": 66,
+        "count": 60
+    },
+    "068.Ruby_throated_Hummingbird": {
+        "label": 67,
+        "count": 60
+    },
+    "069.Rufous_Hummingbird": {
+        "label": 68,
+        "count": 60
+    },
+    "070.Green_Violetear": {
+        "label": 69,
+        "count": 60
+    },
+    "071.Long_tailed_Jaeger": {
+        "label": 70,
+        "count": 60
+    },
+    "072.Pomarine_Jaeger": {
+        "label": 71,
+        "count": 60
+    },
+    "073.Blue_Jay": {
+        "label": 72,
+        "count": 60
+    },
+    "074.Florida_Jay": {
+        "label": 73,
+        "count": 60
+    },
+    "075.Green_Jay": {
+        "label": 74,
+        "count": 57
+    },
+    "076.Dark_eyed_Junco": {
+        "label": 75,
+        "count": 60
+    },
+    "077.Tropical_Kingbird": {
+        "label": 76,
+        "count": 60
+    },
+    "078.Gray_Kingbird": {
+        "label": 77,
+        "count": 59
+    },
+    "079.Belted_Kingfisher": {
+        "label": 78,
+        "count": 60
+    },
+    "080.Green_Kingfisher": {
+        "label": 79,
+        "count": 60
+    },
+    "081.Pied_Kingfisher": {
+        "label": 80,
+        "count": 60
+    },
+    "082.Ringed_Kingfisher": {
+        "label": 81,
+        "count": 60
+    },
+    "083.White_breasted_Kingfisher": {
+        "label": 82,
+        "count": 60
+    },
+    "084.Red_legged_Kittiwake": {
+        "label": 83,
+        "count": 53
+    },
+    "085.Horned_Lark": {
+        "label": 84,
+        "count": 60
+    },
+    "086.Pacific_Loon": {
+        "label": 85,
+        "count": 60
+    },
+    "087.Mallard": {
+        "label": 86,
+        "count": 60
+    },
+    "088.Western_Meadowlark": {
+        "label": 87,
+        "count": 60
+    },
+    "089.Hooded_Merganser": {
+        "label": 88,
+        "count": 60
+    },
+    "090.Red_breasted_Merganser": {
+        "label": 89,
+        "count": 60
+    },
+    "091.Mockingbird": {
+        "label": 90,
+        "count": 60
+    },
+    "092.Nighthawk": {
+        "label": 91,
+        "count": 60
+    },
+    "093.Clark_Nutcracker": {
+        "label": 92,
+        "count": 60
+    },
+    "094.White_breasted_Nuthatch": {
+        "label": 93,
+        "count": 60
+    },
+    "095.Baltimore_Oriole": {
+        "label": 94,
+        "count": 60
+    },
+    "096.Hooded_Oriole": {
+        "label": 95,
+        "count": 60
+    },
+    "097.Orchard_Oriole": {
+        "label": 96,
+        "count": 59
+    },
+    "098.Scott_Oriole": {
+        "label": 97,
+        "count": 60
+    },
+    "099.Ovenbird": {
+        "label": 98,
+        "count": 60
+    },
+    "100.Brown_Pelican": {
+        "label": 99,
+        "count": 60
+    },
+    "101.White_Pelican": {
+        "label": 100,
+        "count": 50
+    },
+    "102.Western_Wood_Pewee": {
+        "label": 101,
+        "count": 60
+    },
+    "103.Sayornis": {
+        "label": 102,
+        "count": 60
+    },
+    "104.American_Pipit": {
+        "label": 103,
+        "count": 60
+    },
+    "105.Whip_poor_Will": {
+        "label": 104,
+        "count": 49
+    },
+    "106.Horned_Puffin": {
+        "label": 105,
+        "count": 60
+    },
+    "107.Common_Raven": {
+        "label": 106,
+        "count": 59
+    },
+    "108.White_necked_Raven": {
+        "label": 107,
+        "count": 60
+    },
+    "109.American_Redstart": {
+        "label": 108,
+        "count": 60
+    },
+    "110.Geococcyx": {
+        "label": 109,
+        "count": 60
+    },
+    "111.Loggerhead_Shrike": {
+        "label": 110,
+        "count": 60
+    },
+    "112.Great_Grey_Shrike": {
+        "label": 111,
+        "count": 60
+    },
+    "113.Baird_Sparrow": {
+        "label": 112,
+        "count": 50
+    },
+    "114.Black_throated_Sparrow": {
+        "label": 113,
+        "count": 60
+    },
+    "115.Brewer_Sparrow": {
+        "label": 114,
+        "count": 59
+    },
+    "116.Chipping_Sparrow": {
+        "label": 115,
+        "count": 60
+    },
+    "117.Clay_colored_Sparrow": {
+        "label": 116,
+        "count": 59
+    },
+    "118.House_Sparrow": {
+        "label": 117,
+        "count": 60
+    },
+    "119.Field_Sparrow": {
+        "label": 118,
+        "count": 59
+    },
+    "120.Fox_Sparrow": {
+        "label": 119,
+        "count": 60
+    },
+    "121.Grasshopper_Sparrow": {
+        "label": 120,
+        "count": 60
+    },
+    "122.Harris_Sparrow": {
+        "label": 121,
+        "count": 60
+    },
+    "123.Henslow_Sparrow": {
+        "label": 122,
+        "count": 60
+    },
+    "124.Le_Conte_Sparrow": {
+        "label": 123,
+        "count": 59
+    },
+    "125.Lincoln_Sparrow": {
+        "label": 124,
+        "count": 59
+    },
+    "126.Nelson_Sharp_tailed_Sparrow": {
+        "label": 125,
+        "count": 59
+    },
+    "127.Savannah_Sparrow": {
+        "label": 126,
+        "count": 60
+    },
+    "128.Seaside_Sparrow": {
+        "label": 127,
+        "count": 60
+    },
+    "129.Song_Sparrow": {
+        "label": 128,
+        "count": 60
+    },
+    "130.Tree_Sparrow": {
+        "label": 129,
+        "count": 60
+    },
+    "131.Vesper_Sparrow": {
+        "label": 130,
+        "count": 60
+    },
+    "132.White_crowned_Sparrow": {
+        "label": 131,
+        "count": 60
+    },
+    "133.White_throated_Sparrow": {
+        "label": 132,
+        "count": 60
+    },
+    "134.Cape_Glossy_Starling": {
+        "label": 133,
+        "count": 60
+    },
+    "135.Bank_Swallow": {
+        "label": 134,
+        "count": 59
+    },
+    "136.Barn_Swallow": {
+        "label": 135,
+        "count": 60
+    },
+    "137.Cliff_Swallow": {
+        "label": 136,
+        "count": 60
+    },
+    "138.Tree_Swallow": {
+        "label": 137,
+        "count": 60
+    },
+    "139.Scarlet_Tanager": {
+        "label": 138,
+        "count": 60
+    },
+    "140.Summer_Tanager": {
+        "label": 139,
+        "count": 60
+    },
+    "141.Artic_Tern": {
+        "label": 140,
+        "count": 58
+    },
+    "142.Black_Tern": {
+        "label": 141,
+        "count": 60
+    },
+    "143.Caspian_Tern": {
+        "label": 142,
+        "count": 60
+    },
+    "144.Common_Tern": {
+        "label": 143,
+        "count": 60
+    },
+    "145.Elegant_Tern": {
+        "label": 144,
+        "count": 60
+    },
+    "146.Forsters_Tern": {
+        "label": 145,
+        "count": 60
+    },
+    "147.Least_Tern": {
+        "label": 146,
+        "count": 60
+    },
+    "148.Green_tailed_Towhee": {
+        "label": 147,
+        "count": 60
+    },
+    "149.Brown_Thrasher": {
+        "label": 148,
+        "count": 59
+    },
+    "150.Sage_Thrasher": {
+        "label": 149,
+        "count": 60
+    },
+    "151.Black_capped_Vireo": {
+        "label": 150,
+        "count": 51
+    },
+    "152.Blue_headed_Vireo": {
+        "label": 151,
+        "count": 60
+    },
+    "153.Philadelphia_Vireo": {
+        "label": 152,
+        "count": 59
+    },
+    "154.Red_eyed_Vireo": {
+        "label": 153,
+        "count": 60
+    },
+    "155.Warbling_Vireo": {
+        "label": 154,
+        "count": 60
+    },
+    "156.White_eyed_Vireo": {
+        "label": 155,
+        "count": 60
+    },
+    "157.Yellow_throated_Vireo": {
+        "label": 156,
+        "count": 59
+    },
+    "158.Bay_breasted_Warbler": {
+        "label": 157,
+        "count": 60
+    },
+    "159.Black_and_white_Warbler": {
+        "label": 158,
+        "count": 60
+    },
+    "160.Black_throated_Blue_Warbler": {
+        "label": 159,
+        "count": 59
+    },
+    "161.Blue_winged_Warbler": {
+        "label": 160,
+        "count": 60
+    },
+    "162.Canada_Warbler": {
+        "label": 161,
+        "count": 60
+    },
+    "163.Cape_May_Warbler": {
+        "label": 162,
+        "count": 60
+    },
+    "164.Cerulean_Warbler": {
+        "label": 163,
+        "count": 60
+    },
+    "165.Chestnut_sided_Warbler": {
+        "label": 164,
+        "count": 60
+    },
+    "166.Golden_winged_Warbler": {
+        "label": 165,
+        "count": 59
+    },
+    "167.Hooded_Warbler": {
+        "label": 166,
+        "count": 60
+    },
+    "168.Kentucky_Warbler": {
+        "label": 167,
+        "count": 59
+    },
+    "169.Magnolia_Warbler": {
+        "label": 168,
+        "count": 59
+    },
+    "170.Mourning_Warbler": {
+        "label": 169,
+        "count": 60
+    },
+    "171.Myrtle_Warbler": {
+        "label": 170,
+        "count": 60
+    },
+    "172.Nashville_Warbler": {
+        "label": 171,
+        "count": 60
+    },
+    "173.Orange_crowned_Warbler": {
+        "label": 172,
+        "count": 60
+    },
+    "174.Palm_Warbler": {
+        "label": 173,
+        "count": 60
+    },
+    "175.Pine_Warbler": {
+        "label": 174,
+        "count": 60
+    },
+    "176.Prairie_Warbler": {
+        "label": 175,
+        "count": 60
+    },
+    "177.Prothonotary_Warbler": {
+        "label": 176,
+        "count": 60
+    },
+    "178.Swainson_Warbler": {
+        "label": 177,
+        "count": 56
+    },
+    "179.Tennessee_Warbler": {
+        "label": 178,
+        "count": 59
+    },
+    "180.Wilson_Warbler": {
+        "label": 179,
+        "count": 60
+    },
+    "181.Worm_eating_Warbler": {
+        "label": 180,
+        "count": 59
+    },
+    "182.Yellow_Warbler": {
+        "label": 181,
+        "count": 60
+    },
+    "183.Northern_Waterthrush": {
+        "label": 182,
+        "count": 60
+    },
+    "184.Louisiana_Waterthrush": {
+        "label": 183,
+        "count": 60
+    },
+    "185.Bohemian_Waxwing": {
+        "label": 184,
+        "count": 60
+    },
+    "186.Cedar_Waxwing": {
+        "label": 185,
+        "count": 60
+    },
+    "187.American_Three_toed_Woodpecker": {
+        "label": 186,
+        "count": 50
+    },
+    "188.Pileated_Woodpecker": {
+        "label": 187,
+        "count": 60
+    },
+    "189.Red_bellied_Woodpecker": {
+        "label": 188,
+        "count": 60
+    },
+    "190.Red_cockaded_Woodpecker": {
+        "label": 189,
+        "count": 58
+    },
+    "191.Red_headed_Woodpecker": {
+        "label": 190,
+        "count": 60
+    },
+    "192.Downy_Woodpecker": {
+        "label": 191,
+        "count": 60
+    },
+    "193.Bewick_Wren": {
+        "label": 192,
+        "count": 60
+    },
+    "194.Cactus_Wren": {
+        "label": 193,
+        "count": 60
+    },
+    "195.Carolina_Wren": {
+        "label": 194,
+        "count": 60
+    },
+    "196.House_Wren": {
+        "label": 195,
+        "count": 59
+    },
+    "197.Marsh_Wren": {
+        "label": 196,
+        "count": 60
+    },
+    "198.Rock_Wren": {
+        "label": 197,
+        "count": 60
+    },
+    "199.Winter_Wren": {
+        "label": 198,
+        "count": 60
+    },
+    "200.Common_Yellowthroat": {
+        "label": 199,
+        "count": 60
+    }
+}
